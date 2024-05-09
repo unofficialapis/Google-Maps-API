@@ -37,7 +37,7 @@ Here's an example of how you can use the Google Maps Scraper API in Python with 
 
 ```python
 import requests
-
+headers = {""}
 params = {
     "latitude": "39.7392",
     "longitude": "-104.9903",
